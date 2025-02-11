@@ -1,4 +1,4 @@
-Directory Structure
+## Directory Structure
 -------------------
 css\              - Stylesheets CSS files for the template.
 images\           - Images used in template.
@@ -9,7 +9,7 @@ index.html        - Main HTML page to open the template in browser.
 *.html            - Additional HTML pages (if any).
 LICENSE-*.txt     - License file as per your downloaded variant.
 
-How to Edit the template
+## How to Edit the template
 ------------------------
 
 1. Editing Content in template
@@ -34,7 +34,7 @@ Make sure to name the file same as the original file.
 If you wish to change the name of the image file then you must
 also make corresponding change in the HTML file which refer to that image.
 
-How to use the template
+## How to use the template
 -----------------------
 Upload the contents to your webserver.
 index.html must be in the main (root) folder of your webserver.
