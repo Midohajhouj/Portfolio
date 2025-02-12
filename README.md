@@ -1,44 +1,76 @@
-## Directory Structure
--------------------
-css\              - Stylesheets CSS files for the template.
-images\           - Images used in template.
-scripts\          - JavaScript used in the template.
-styles\           - SCSS source files for stylesheets CSS. Available in Purchased versions only.
-favicon.ico       - Favicon placeholder provided for the template.
-index.html        - Main HTML page to open the template in browser.
-*.html            - Additional HTML pages (if any).
-LICENSE-*.txt     - License file as per your downloaded variant.
+# Developer & Penetration Tester Portfolio
 
-## How to Edit the template
-------------------------
+This repository contains the source code for a personal portfolio website of **Mehdi Hajhouj**, showcasing skills, certifications, projects, and contact information.
 
-1. Editing Content in template
+## Table of Contents
+- [About](#about)
+- [Technologies Used](#technologies-used)
+- [Portfolio Sections](#portfolio-sections)
+- [Contact](#contact)
 
-To edit the content open the corresponding *.html files and open them
-in an editor such as VSCode or Notepad++.
-Search for the content you want to change and edit it to the text you want.
-Save the file and reopen HTML file in browser to see the changes.
+---
 
-2. Editing Styles of template
+## About
+The portfolio is designed to highlight the skills and experience of Mehdi Hajhouj, a professional web developer and penetration tester. It includes sections for:
+- **Professional Skills**: Proficiency in web development, penetration testing, and programming languages.
+- **Certifications**: Recognized credentials in cybersecurity.
+- **Portfolio**: Demonstrates projects, from secure web applications to vulnerability assessments.
+- **Contact Form**: Allows users to get in touch directly.
 
-The main style is present in css\main.css which you can edit.
-You must know how to edit CSS files to do this.
-If you have purchased any of the premium version then you will also get
-SCSS source files which generates all the styles of the template.
-You can use these SCSS files to make your changes and regenerate CSS.
 
-3. Changing Images
+---
 
-You can change images inside the images\ folder.
-Make sure to name the file same as the original file.
-If you wish to change the name of the image file then you must
-also make corresponding change in the HTML file which refer to that image.
+## Technologies Used
+- **HTML5**: Markup structure.
+- **CSS3**: Styling and animations.
+- **Bootstrap 4**: Responsive grid system and components.
+- **JavaScript**: Dark mode toggle and interactivity.
+- **AOS (Animate on Scroll)**: Smooth scrolling animations.
+- **Font Awesome**: Icons for social media links.
+- **Google Fonts**: Typography styling.
+- **Formspree**: Email-based contact form.
 
-## How to use the template
------------------------
-Upload the contents to your webserver.
-index.html must be in the main (root) folder of your webserver.
-Do not change the name of the template folders or files unless you know
-what you are doing and are changing the names in HTML files too.
-For webhosting, you can go with https://templateflip.com/go/hosting for easy FTP file uploads.
+---
 
+
+## Portfolio Sections
+
+1. **About**  
+   Introduction to Mehdi Hajhouj, including his skills and professional background.
+
+2. **Skills**  
+   Interactive progress bars showing proficiency in:
+   - Web Development
+   - Penetration Testing
+   - JavaScript, CSS, and Python
+
+3. **Certifications**  
+   - Certified Ethical Hacker (CEH)
+   - CompTIA Security+
+
+4. **Portfolio**  
+   Detailed descriptions of key projects, including:
+   - **E-Commerce Website**: Secure e-commerce platform.
+   - **Vulnerability Assessment**: Comprehensive security analysis.
+   - **Secure Web Application**: Designed to prevent common vulnerabilities.
+
+5. **Contact**  
+   Includes:
+   - **Address**: 41000, Salé, Morocco
+   - **Phone**: +212660123988
+   - **Email**: midohajhouj11@gmail.com
+   - **Contact Form**: Sends messages directly via Formspree.
+
+---
+
+## Contact
+Feel free to connect via:
+- [LinkedIn](#)
+- [GitHub]()
+- [Instagram](#)
+- [YouTube](#)
+
+---
+
+## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute.
