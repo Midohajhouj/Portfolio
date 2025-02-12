@@ -1,4 +1,4 @@
-# Personal Portfolio
+## Personal Portfolio
 
 This repository contains the source code for a personal portfolio website of **Mehdi Hajhouj**, showcasing skills, certifications, projects, and contact information.
 
@@ -46,7 +46,7 @@ The portfolio is designed to highlight the skills and experience of Mehdi Hajhou
 
 3. **Certifications**  
    - Certified Ethical Hacker (CEH)
-   - CompTIA Security+
+   - CompTIA Network+
 
 4. **Portfolio**  
    Detailed descriptions of key projects, including:
