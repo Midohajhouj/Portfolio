@@ -68,8 +68,3 @@ Feel free to connect via:
 - [LinkedIn](https://www.linkedin.com/in/mehdi-hajhouj-07603b309/)
 - [GitHub](https://github.com/Midohajhouj)
 - [Instagram](https://www.instagram.com/mehdi.hajhouj?igsh=M2dzOXVweHIzaGpp)
-
----
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute.
