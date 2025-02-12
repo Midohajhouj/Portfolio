@@ -65,10 +65,11 @@ The portfolio is designed to highlight the skills and experience of Mehdi Hajhou
 
 ## Contact
 Feel free to connect via:
-- [LinkedIn](#)
-- [GitHub]()
-- [Instagram](#)
-- [YouTube](#)
+- [LinkedIn](https://www.linkedin.com/in/mehdi-hajhouj-07603b309/(
+- [GitHub](https://github.com/Midohajhouj)
+- [Instagram](https://www.instagram.com/mehdi.hajhouj?igsh=M2dzOXVweHIzaGpp)
+- [YouTube](https://youtube.com/@mehdihajhouj?si=1_RycPDovhdHMOMg)
+
 
 ---
 
