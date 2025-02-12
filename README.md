@@ -1,4 +1,4 @@
-# Developer & Penetration Tester Portfolio
+# Personal Portfolio
 
 This repository contains the source code for a personal portfolio website of **Mehdi Hajhouj**, showcasing skills, certifications, projects, and contact information.
 
