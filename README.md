@@ -11,7 +11,7 @@ This repository contains the source code for a personal portfolio website of **M
 ---
 
 ## About
-The portfolio is designed to highlight the skills and experience of Mehdi Hajhouj, a professional web developer and penetration tester. It includes sections for:
+The portfolio is designed to highlight the skills and experience of Mehdi Hajhouj,a web developer and penetration tester. It includes sections for:
 - **Professional Skills**: Proficiency in web development, penetration testing, and programming languages.
 - **Certifications**: Recognized credentials in cybersecurity.
 - **Portfolio**: Demonstrates projects, from secure web applications to vulnerability assessments.
